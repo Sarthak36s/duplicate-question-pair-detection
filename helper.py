@@ -7,6 +7,10 @@ import pickle
 import numpy as np
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+import nltk
+
+nltk.download('punkt_tab', quiet=True)
+nltk.download('stopwords', quiet=True)
 
 
 cv = pickle.load(open('cv.pkl','rb'))
