@@ -1,0 +1,18 @@
+
+# Streamlit application
+streamlit
+
+# Model inference and scientific computing
+numpy
+scikit-learn
+xgboost
+
+# Text preprocessing
+nltk
+beautifulsoup4
+distance
+
+# Notebook: data analysis and visualization
+pandas
+matplotlib
+seaborn
